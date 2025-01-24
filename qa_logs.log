@@ -1,0 +1,172 @@
+2024-12-23 12:13:42,020 - Use pytorch device_name: cpu
+2024-12-23 12:13:42,021 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:13:48,079 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:13:48,079 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:13:48,082 -  * Restarting with stat
+2024-12-23 12:13:54,607 - Use pytorch device_name: cpu
+2024-12-23 12:13:54,607 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:14:00,165 -  * Debugger is active!
+2024-12-23 12:14:00,169 -  * Debugger PIN: 249-652-307
+2024-12-23 12:14:08,275 - 127.0.0.1 - - [23/Dec/2024 12:14:08] "DELETE /delete HTTP/1.1" 200 -
+2024-12-23 12:14:30,971 - The de-serialization relies loading a pickle file. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine.You will need to set `allow_dangerous_deserialization` to `True` to enable deserialization. If you do this, make sure that you trust the source of the data. For example, if you are loading a file that you created, and know that no one else has modified the file, then this is safe to do. Do not set this to `True` if you are loading a file from an untrusted source (e.g., some random site on the internet.)., retrying in 2 seconds...
+2024-12-23 12:14:32,971 - The de-serialization relies loading a pickle file. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine.You will need to set `allow_dangerous_deserialization` to `True` to enable deserialization. If you do this, make sure that you trust the source of the data. For example, if you are loading a file that you created, and know that no one else has modified the file, then this is safe to do. Do not set this to `True` if you are loading a file from an untrusted source (e.g., some random site on the internet.)., retrying in 2 seconds...
+2024-12-23 12:14:34,972 - 127.0.0.1 - - [23/Dec/2024 12:14:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-12-23 12:15:25,710 - Use pytorch device_name: cpu
+2024-12-23 12:15:25,710 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:15:31,318 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:15:31,318 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:15:31,320 -  * Restarting with stat
+2024-12-23 12:15:37,610 - Use pytorch device_name: cpu
+2024-12-23 12:15:37,610 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:15:42,844 -  * Debugger is active!
+2024-12-23 12:15:42,847 -  * Debugger PIN: 249-652-307
+2024-12-23 12:16:20,770 -  * Detected change in 'C:\\Users\\Somnotho.Mzolo\\PycharmProjects\\PythonProject__2\\run.py', reloading
+2024-12-23 12:16:21,516 -  * Restarting with stat
+2024-12-23 12:16:28,204 - Use pytorch device_name: cpu
+2024-12-23 12:16:28,204 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:16:31,772 -  * Debugger is active!
+2024-12-23 12:16:31,775 -  * Debugger PIN: 249-652-307
+2024-12-23 12:16:59,897 - Use pytorch device_name: cpu
+2024-12-23 12:16:59,897 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:17:04,450 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:17:04,450 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:17:04,452 -  * Restarting with stat
+2024-12-23 12:17:11,330 - Use pytorch device_name: cpu
+2024-12-23 12:17:11,330 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:17:51,713 - Use pytorch device_name: cpu
+2024-12-23 12:17:51,713 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:17:55,662 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:17:55,662 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:17:55,665 -  * Restarting with stat
+2024-12-23 12:18:01,752 - Use pytorch device_name: cpu
+2024-12-23 12:18:01,752 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:18:05,291 -  * Debugger is active!
+2024-12-23 12:18:05,295 -  * Debugger PIN: 249-652-307
+2024-12-23 12:18:13,031 - The de-serialization relies loading a pickle file. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine.You will need to set `allow_dangerous_deserialization` to `True` to enable deserialization. If you do this, make sure that you trust the source of the data. For example, if you are loading a file that you created, and know that no one else has modified the file, then this is safe to do. Do not set this to `True` if you are loading a file from an untrusted source (e.g., some random site on the internet.)., retrying in 2 seconds...
+2024-12-23 12:18:15,032 - The de-serialization relies loading a pickle file. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine.You will need to set `allow_dangerous_deserialization` to `True` to enable deserialization. If you do this, make sure that you trust the source of the data. For example, if you are loading a file that you created, and know that no one else has modified the file, then this is safe to do. Do not set this to `True` if you are loading a file from an untrusted source (e.g., some random site on the internet.)., retrying in 2 seconds...
+2024-12-23 12:18:17,033 - 127.0.0.1 - - [23/Dec/2024 12:18:17] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-12-23 12:20:08,979 - Use pytorch device_name: cpu
+2024-12-23 12:20:08,979 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:20:13,861 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:20:13,861 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:20:13,863 -  * Restarting with stat
+2024-12-23 12:20:20,157 - Use pytorch device_name: cpu
+2024-12-23 12:20:20,157 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:20:25,232 -  * Debugger is active!
+2024-12-23 12:20:25,235 -  * Debugger PIN: 249-652-307
+2024-12-23 12:20:25,982 - Loading faiss with AVX2 support.
+2024-12-23 12:20:26,151 - Successfully loaded faiss with AVX2 support.
+2024-12-23 12:20:26,168 - Error in __cdecl faiss::FileIOReader::FileIOReader(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:68: Error: 'f' failed: could not open vectorstore\index.faiss for reading: No such file or directory, retrying in 2 seconds...
+2024-12-23 12:20:28,169 - Error in __cdecl faiss::FileIOReader::FileIOReader(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:68: Error: 'f' failed: could not open vectorstore\index.faiss for reading: No such file or directory, retrying in 2 seconds...
+2024-12-23 12:20:30,172 - 127.0.0.1 - - [23/Dec/2024 12:20:30] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-12-23 12:24:03,180 - Use pytorch device_name: cpu
+2024-12-23 12:24:03,180 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:24:09,281 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:24:09,281 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:24:09,283 -  * Restarting with stat
+2024-12-23 12:24:16,815 - Use pytorch device_name: cpu
+2024-12-23 12:24:16,815 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:24:20,706 -  * Debugger is active!
+2024-12-23 12:24:20,712 -  * Debugger PIN: 249-652-307
+2024-12-23 12:24:22,532 - Loading faiss with AVX2 support.
+2024-12-23 12:24:22,708 - Successfully loaded faiss with AVX2 support.
+2024-12-23 12:24:22,719 - Vectorstore successfully created and saved.
+2024-12-23 12:24:22,719 - Vectorstore updated with document: data/NuPay POS Bluebird Terminal Quick Guide.pdf
+2024-12-23 12:24:22,720 - 127.0.0.1 - - [23/Dec/2024 12:24:22] "POST /upload HTTP/1.1" 200 -
+2024-12-23 12:25:13,606 -  * Detected change in 'C:\\Users\\Somnotho.Mzolo\\PycharmProjects\\PythonProject__2\\run.py', reloading
+2024-12-23 12:25:14,355 -  * Restarting with stat
+2024-12-23 12:25:20,684 - Use pytorch device_name: cpu
+2024-12-23 12:25:20,684 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:25:24,872 -  * Debugger is active!
+2024-12-23 12:25:24,875 -  * Debugger PIN: 249-652-307
+2024-12-23 12:25:25,814 - Loading faiss with AVX2 support.
+2024-12-23 12:25:25,836 - Successfully loaded faiss with AVX2 support.
+2024-12-23 12:25:25,968 - Error processing query:  HOW TO PROCESS AN AEDO DEBIT ORDER TRANSACTION?
+`run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].
+2024-12-23 12:25:25,968 - 127.0.0.1 - - [23/Dec/2024 12:25:25] "[35m[1mPOST /answer HTTP/1.1[0m" 500 -
+2024-12-23 12:27:06,580 -  * Detected change in 'C:\\Users\\Somnotho.Mzolo\\PycharmProjects\\PythonProject__2\\run.py', reloading
+2024-12-23 12:27:07,324 -  * Restarting with stat
+2024-12-23 12:27:13,736 - Use pytorch device_name: cpu
+2024-12-23 12:27:13,736 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:27:19,770 -  * Debugger is active!
+2024-12-23 12:27:19,773 -  * Debugger PIN: 249-652-307
+2024-12-23 12:27:34,445 -  * Detected change in 'C:\\Users\\Somnotho.Mzolo\\PycharmProjects\\PythonProject__2\\run.py', reloading
+2024-12-23 12:27:35,146 -  * Restarting with stat
+2024-12-23 12:27:47,152 - Use pytorch device_name: cpu
+2024-12-23 12:27:47,152 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:27:53,857 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:27:53,857 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:27:53,859 -  * Restarting with stat
+2024-12-23 12:28:01,986 - Use pytorch device_name: cpu
+2024-12-23 12:28:01,986 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:28:06,399 -  * Debugger is active!
+2024-12-23 12:28:06,403 -  * Debugger PIN: 249-652-307
+2024-12-23 12:28:06,725 - Loading faiss with AVX2 support.
+2024-12-23 12:28:06,747 - Successfully loaded faiss with AVX2 support.
+2024-12-23 12:33:24,424 - Use pytorch device_name: cpu
+2024-12-23 12:33:24,424 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:33:29,866 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.181.49:5000
+2024-12-23 12:33:29,866 - [33mPress CTRL+C to quit[0m
+2024-12-23 12:33:29,871 -  * Restarting with stat
+2024-12-23 12:33:39,860 - Use pytorch device_name: cpu
+2024-12-23 12:33:39,898 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-12-23 12:33:44,452 -  * Debugger is active!
+2024-12-23 12:33:44,467 -  * Debugger PIN: 249-652-307
+2024-12-23 12:33:45,033 - Loading faiss with AVX2 support.
+2024-12-23 12:33:45,166 - Successfully loaded faiss with AVX2 support.
+2024-12-23 12:36:10,352 - Query:  HOW TO PROCESS AN AEDO DEBIT ORDER TRANSACTION?
+Response: The instructions provided in the context are for processing an AEDO debit order transaction on a Bluebird MT280 mobile terminal. To process the transaction, follow these steps:
+
+STEP 1: INSERT OR SWIPE THE CUSTOMER/CLIENT’S CARD ON THE TERMINAL (SEE FIG 1)
+Insert the card with the chip facing forward or swipe it with the magnetic reader facing the keypad.
+
+STEP 2: SELECT THE ACCOUNT TYPE UNDER THE CHOOSE PAYMENT MENU (IE. CHEQUE/SAVINGS), SEE FIG 2.
+Choose the payment option based on the account type.
+
+STEP 3: SELECT DEBIT ORDERS UNDER THE TRANSACTION MENU, SEE FIG 3.
+Select the debit order option from the transaction menu.
+
+STEP 4: SELECT BILL PURCHASE UNDER THE AEDO MENU, SEE FIG 4.
+Select the bill purchase option from the AEDO menu.
+
+STEP 5: ENTER THE ACCOUNT NUMBER, SEE FIG 5.
+Enter the account number as prompted on the terminal.
+
+STEP 6: TWO (2) SLIPS WILL PRINT OUT OF THE TERMINAL, THE FIRST SLIP IS THE MERCHANT’S COPY AND THE SECOND SLIP IS THE CUSTOMER/CLIENT’S COPY.
+The transaction is completed and two slips will print out of the terminal, one for the merchant and one for the customer/client.
+
+To process an AEDO debit order transaction, follow these steps:
+
+1. Insert or swipe the customer/client's card on the terminal.
+2. Select the account type from the payment menu.
+3. Choose the debit order option from the transaction menu.
+4. Enter the account number as prompted on the terminal.
+5. The transaction is completed, and two slips will print out of the terminal.
+
+Note: The instructions provided in the context are for processing an AEDO debit order transaction on a Bluebird MT280 mobile terminal. The steps may vary slightly depending on the specific terminal being used.
+--------------------------------------------------
+2024-12-23 12:36:10,431 - 127.0.0.1 - - [23/Dec/2024 12:36:10] "POST /answer HTTP/1.1" 200 -
